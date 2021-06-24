@@ -1,29 +1,13 @@
-# Thème et extensions
+# Thèmes et extensions
 
-## Thème installé
+## Choix du thème
 
-Lors des premières semaines, j’ai commencé par installer [WordPress](https://wordpress.org) localement sur mon ordinateur :
-**WordPress** est un **S**ystème de **G**estion de **C**ontenu (**CMS**) gratuit, libre et open-source écrit en **PHP** et reposant sur une base de données **MySQL**. Les fonctionnalités de WordPress lui permettent de créer et de gérer différents types de sites web : site vitrine, site de vente en ligne, site applicatif…
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis viverra ultrices tortor sit amet pretium. Fusce feugiat felis sagittis nulla varius cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin mi sem, tincidunt nec ex a, interdum tristique nunc. Phasellus sed lorem nunc. Aliquam ut posuere dui, in tincidunt tellus. Etiam in lectus a erat tempus volutpat. Vestibulum ultricies arcu ut felis aliquam hendrerit. Vivamus consequat augue in mauris finibus ultricies. Nulla commodo lorem mi, a luctus erat elementum ut. Fusce ornare vestibulum aliquam. Morbi malesuada dui mauris, tempus ultrices tortor gravida sit amet.
 
-Ce CMS, comme d’autres, se reposent sur des **thèmes** et **extensions** à installer afin de faciliter la mise en place du site.
-
-J’ai alors commencé par chercher un thème approprié ainsi qu’une liste d’extensions utiles à son fonctionnement.
-Une fois le thème ainsi que toutes les extensions installées, j’ai pu **migrer** le site sur **serveur** afin de l’**héberger** temporairement durant ma période de stage afin que les chercheurs puissent voir l’avancer du site en temps réel. En effet, n’ayant pu la nécessité d’avoir accès aux fichiers du site, j’ai donc pu héberger le site et travailler par la suite intégralement depuis le **panneau administrateur** de WordPress.
-C’est à ce stade que j’ai commencé par concevoir l’architecture du site, en créant les différentes pages qui seront alimentées dans le futur.
+Maecenas commodo faucibus ex, at tristique sapien gravida at. In hac habitasse platea dictumst. Integer vitae ultrices tellus. Aliquam leo dolor, hendrerit et dignissim eu, iaculis et lacus. Curabitur at neque vel diam consequat convallis. Pellentesque et nisi massa. Morbi venenatis hendrerit sagittis. Vivamus aliquam, mauris ut auctor blandit, diam magna sodales purus, ut rutrum nibh justo et quam. Nunc luctus egestas accumsan. Sed pulvinar leo nec magna pharetra, eget pulvinar turpis laoreet. Fusce sit amet porta lectus, et sagittis risus. Donec venenatis posuere tincidunt. Phasellus velit dolor, pharetra ut tellus quis, semper venenatis lectus.
 
 ## Extensions installées
 
-Au cours de stage ma mission principale a été de réalisé le site internet de l’équipe n°104 : **Nanomatériaux et Optique** à l’aide du CMS **WordPress** afin de faciliter la maintenance du site après mon départ.
-Ce site aura pour but de présenter **les chercheurs**, **les axes de recherches**, **les projets**, **les équipements** ainsi que toutes les informations relatives à l’équipe à l'international.
-Concernant la chronologie, ce projet de réaliser un site internet d’équipe était encore en **phase de réflexion** lors de mon entré en stage. En effet, les chercheurs avaient une idée globale du contenu du site, mais ne possédait pas de maquette afin que je puisse démarrer le développement. Ils m’ont alors donné une liste de sites sur lequel je pouvais me baser afin de commencer le design et l’architecture du site.
+Aenean ultricies suscipit tellus a eleifend. Phasellus sit amet nibh tincidunt, dignissim nulla sed, sollicitudin nisl. In odio ante, efficitur nec purus bibendum, gravida dapibus metus. Duis vitae nulla rhoncus lacus euismod posuere eget eu velit. Phasellus et lacus elit. Donec sollicitudin ligula a tincidunt egestas. Sed a posuere lacus, sit amet lacinia nisi. Sed volutpat turpis quam. Nam at mollis magna.
 
-Concernant le contenu, il doit y avoir impérativement :
-- Une page d’accueil présentant brièvement l’équipe
-- Une page « Équipe » avec la liste des chercheurs et les collaborations nationales/internationales
-- Une page par chercheurs contenant :
-    - Des liens vers leurs différents réseaux
-    - Courte biographie
-    - Liste de leurs publications scientifiques
-- Une page regroupant les équipements scientifiques de l'équipe (galerie photos)
-- Des pages concernant les axes de recherches / projets / informations divers
-- Une page de contact
+Aliquam ultricies eget augue nec semper. Maecenas sit amet diam nec risus blandit venenatis vel sed massa. Donec vehicula justo sed rutrum pharetra. Curabitur in tincidunt odio. Etiam fringilla sed nulla eu sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer tincidunt eu orci non commodo. Vestibulum eget felis in urna aliquam iaculis ac id turpis. Aliquam eget justo dapibus, sagittis elit sed, pretium ante. Nunc viverra malesuada tellus, ut euismod velit. Pellentesque vitae auctor nulla. Curabitur velit enim, tristique et odio a, cursus sagittis ligula. Curabitur at venenatis mauris, in hendrerit leo.

@@ -66,6 +66,7 @@ L'équipe 104 est composé d'une dizaine de personnes dont des **chercheurs perm
 - **Xavier DEVAUX** : Chercheur permanent
 - **Alaa Eldin GIBA** : Post-doctorant
 - **Priyanka TYAGI** : Post-doctorant
+- **Tongxin CHEN** : Post-doctorant
 - **Alix VALDENAIRE** : Doctorant
 - **Pambiang Abel DAINONE** : Doctorant
 
