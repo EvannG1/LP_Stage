@@ -1,0 +1,22 @@
+{
+  "name": "StageApp",
+  "version": "0.0.1",
+  "description": "Mémoire de stage - LP CIASIE",
+  "main": "index.js",
+  "authors": {
+    "name": "Evann Gehin"
+  },
+  "repository": "/StageApp",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-book": "^0.0.5"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.0.6"
+  }
+}
