@@ -2,9 +2,15 @@
 
 ## Choix du thème
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis viverra ultrices tortor sit amet pretium. Fusce feugiat felis sagittis nulla varius cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin mi sem, tincidunt nec ex a, interdum tristique nunc. Phasellus sed lorem nunc. Aliquam ut posuere dui, in tincidunt tellus. Etiam in lectus a erat tempus volutpat. Vestibulum ultricies arcu ut felis aliquam hendrerit. Vivamus consequat augue in mauris finibus ultricies. Nulla commodo lorem mi, a luctus erat elementum ut. Fusce ornare vestibulum aliquam. Morbi malesuada dui mauris, tempus ultrices tortor gravida sit amet.
+Le choix du thème n'a pas été facile, je cherchais quelqu'un chose de simple, intuitif, moderne et gratuit de préference.
 
-Maecenas commodo faucibus ex, at tristique sapien gravida at. In hac habitasse platea dictumst. Integer vitae ultrices tellus. Aliquam leo dolor, hendrerit et dignissim eu, iaculis et lacus. Curabitur at neque vel diam consequat convallis. Pellentesque et nisi massa. Morbi venenatis hendrerit sagittis. Vivamus aliquam, mauris ut auctor blandit, diam magna sodales purus, ut rutrum nibh justo et quam. Nunc luctus egestas accumsan. Sed pulvinar leo nec magna pharetra, eget pulvinar turpis laoreet. Fusce sit amet porta lectus, et sagittis risus. Donec venenatis posuere tincidunt. Phasellus velit dolor, pharetra ut tellus quis, semper venenatis lectus.
+J'ai finalement trouvé le thème [Sinatra](https://fr.wordpress.org/themes/sinatra/) directement proposé au téléchargement sur le site officiel de WordPress ainsi que depuis le panneau de contrôle administrateur.
+
+L'entièreté du site a été conçu autour de ce thème du début de la période de stage jusqu'au 25/06 (dernière semaine en entreprise).
+
+Mon tuteur m'a fait part que le design général du site ressemblait beaucoup à celui du site d'une équipe "concurrente" présente à l'Institut Jean Lamour ([SPIN](https://spin.ijl.cnrs.fr)). En effet, malgré que cette équipe utilise un thème différent ([Hestia](https://fr.wordpress.org/themes/hestia/)), ces deux thèmes se ressemblent énormement. J'avais donc pour mission de changer de trouver un autre thème, or cela entraine aussi la modification du design et de la mise en forme de toutes les pages, ce qui est contraignant au vu du peu de temps restant avant la fin de mon stage.
+
+Le thème final retenu par l'équipe est [Vantage](https://fr.wordpress.org/themes/vantage/).
 
 ## Extensions installées
 
