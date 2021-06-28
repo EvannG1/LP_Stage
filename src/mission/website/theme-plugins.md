@@ -8,6 +8,14 @@ Maecenas commodo faucibus ex, at tristique sapien gravida at. In hac habitasse p
 
 ## Extensions installées
 
-Aenean ultricies suscipit tellus a eleifend. Phasellus sit amet nibh tincidunt, dignissim nulla sed, sollicitudin nisl. In odio ante, efficitur nec purus bibendum, gravida dapibus metus. Duis vitae nulla rhoncus lacus euismod posuere eget eu velit. Phasellus et lacus elit. Donec sollicitudin ligula a tincidunt egestas. Sed a posuere lacus, sit amet lacinia nisi. Sed volutpat turpis quam. Nam at mollis magna.
+Diverses extensions ont été installées au fur et à mesure de la mise en place du site :
 
-Aliquam ultricies eget augue nec semper. Maecenas sit amet diam nec risus blandit venenatis vel sed massa. Donec vehicula justo sed rutrum pharetra. Curabitur in tincidunt odio. Etiam fringilla sed nulla eu sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer tincidunt eu orci non commodo. Vestibulum eget felis in urna aliquam iaculis ac id turpis. Aliquam eget justo dapibus, sagittis elit sed, pretium ante. Nunc viverra malesuada tellus, ut euismod velit. Pellentesque vitae auctor nulla. Curabitur velit enim, tristique et odio a, cursus sagittis ligula. Curabitur at venenatis mauris, in hendrerit leo.
+J'ai dans un premier temps installé l'exension "**Disable comments**" permettant de désactiver globalement le système de commentaires de WordPress : les articles n'ayant pas pour but d'obtenir de retours d'utilisateurs.
+
+Les extensions "**Elementor**" ainsi que "**Essential Addons for Elementor**" ont été installées afin de pouvoir créer aisément et de façon intuitive la quasi-totalité des pages.
+
+**TeachPress**, une extension permettant de lister des publications scientifiques a été installé aussi dans le but de pouvoir ajouter manuellement des publications à un chercheur
+
+**Fluent Forms** permettant de créer le formulaire de contact.
+
+Ainsi que divers extensions nécessaires au bon fonctionnement du thème et à l'insértion de divers informations (réseaux sociaux, slider, système de galerie...).

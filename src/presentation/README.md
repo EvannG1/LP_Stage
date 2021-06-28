@@ -48,7 +48,7 @@ Afin de répondre à un certain nombre d’enjeux sociétaux, l’Institut Jean 
 - Théorie, Modélisations et Simulations
 - Matériaux et vivant
 
-[![Organigramme](~@organigramme.jpg)](/assets/img/organigrame.9f01754a.jpg)
+[![Organigramme](/assets/img/organigramme.jpg)](/assets/img/organigramme.jpg)
 
 ## Présentation de l'équipe 104
 

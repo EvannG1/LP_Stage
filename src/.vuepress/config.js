@@ -53,6 +53,10 @@ module.exports = {
         ]
       },
       {
+        text: 'Remerciements',
+        link: '/remerciements/'
+      },
+      {
         text: 'Lien vers le projet',
         link: 'https://ecstatic-hodgkin.40-66-42-88.plesk.page/'
       }
@@ -63,18 +67,19 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'theme-plugins',
+            'publications',
+            'theme-plugins'
           ]
         }
       ],
-    }
-  },
-
-  configureWebpack: {
-    resolve: {
-      alias: {
-        '@organigramme.jpg': '../presentation/organigrame.jpg'
-      }
+      '/mission/photography/': [
+        {
+          collapsable: false,
+          children: [
+            ''
+          ]
+        }
+      ]
     }
   },
 
