@@ -53,6 +53,10 @@ module.exports = {
         ]
       },
       {
+        text: 'Annexes',
+        link: '/annexes/'
+      },
+      {
         text: 'Remerciements',
         link: '/remerciements/'
       },
