@@ -49,7 +49,8 @@ module.exports = {
         ariaLabel: 'Missions menu',
         items: [
           { text: 'Site internet de l\'équipe', link: '/mission/website/' },
-          { text: 'Photographie', link: '/mission/photography/' }
+          { text: 'Photographie', link: '/mission/photography/' },
+          { text: 'Conclusion', link: '/mission/conclusion/' }
         ]
       },
       {

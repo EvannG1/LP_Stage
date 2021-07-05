@@ -16,8 +16,8 @@ sidebar: auto
 
 ## Introduction
 
-Du 12 avril 2021 au 2 juillet 2021, j’ai effectué un stage au sein de l’Institut Jean Lamour situé à Nancy. Au cours de stage, j’ai pu mettre en place le site internet de l’équipe dédié à l’étude des nanomatériaux et de l’optique.
-Mon stage a consisté essentiellement au développement du site internet de l’équipe n°104 : site ayant pour but de présenter les chercheurs, les axes de recherches ainsi que les projets de l’équipe à l’international. Mon maître de stage étant Yuan LU, co-responsable de l’équipe, j’ai pu aisément m’intégrer et ainsi bénéficié de toutes les informations nécessaires à la mise en place du site internet.
+Du 12 avril 2021 au 2 juillet 2021, j’ai effectué un stage au sein de l’Institut Jean Lamour situé à Nancy. Au cours du stage, j’ai pu mettre en place le site internet de l’équipe dédié à l’étude des nanomatériaux et de l’optique.
+Mon stage a consisté essentiellement au développement du site internet de l’équipe n°104 : site ayant pour but de présenter les chercheurs, les axes de recherche ainsi que les projets de l’équipe à l’international. Mon maître de stage étant Yuan LU, coresponsable de l’équipe, j’ai pu aisément m’intégrer et ainsi bénéficier de toutes les informations nécessaires à la mise en place du site internet.
 
 ::: tip Informations générales
 **Entreprise** : Institut Jean Lamour
@@ -56,7 +56,7 @@ Lors de mon stage, j'ai pu faire parti de l’équipe n°104 dite « Nanomatéri
 
 ### Compositions
 
-L'équipe 104 est composé d'une dizaine de personnes dont des **chercheurs permanents**, des **doctorants** ainsi que des **post-doctorants** placé sous la responsabilité de **Mr Hervé RINNERT** :
+L'équipe 104 est composé d'une dizaine de personnes dont des **chercheurs permanents**, des **doctorants** ainsi que des **postdoctorants** placés sous la responsabilité de **Mr Hervé RINNERT** :
 
 - **Hervé RINNERT** : Résponsable et enseignant-chercheur permanent
 - **Yuan LU** : Co-résponsable et chercheur permanent
@@ -64,9 +64,9 @@ L'équipe 104 est composé d'une dizaine de personnes dont des **chercheurs perm
 - **Mathieu STOFFEL** : Enseignant-chercheur permanent
 - **Thomas EASWARAKHANTHAN** : Enseignant-chercheur permanent
 - **Xavier DEVAUX** : Chercheur permanent
-- **Alaa Eldin GIBA** : Post-doctorant
-- **Priyanka TYAGI** : Post-doctorant
-- **Tongxin CHEN** : Post-doctorant
+- **Alaa Eldin GIBA** : Postdoctorant
+- **Priyanka TYAGI** : Postdoctorant
+- **Tongxin CHEN** : Postdoctorant
 - **Alix VALDENAIRE** : Doctorant
 - **Pambiang Abel DAINONE** : Doctorant
 

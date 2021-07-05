@@ -2,7 +2,7 @@
 
 ## Introduction
 
-En plus du développement du site internet, j’ai été chargé de prendre en **photo** les chercheurs afin d’alimenter la page « **Members** » et les **pages de profil** de chacun ainsi que les tous les **équipements** appartenants à l’équipe.
+En plus du développement du site internet, j’ai été chargé de prendre en **photo** les chercheurs afin d’alimenter la page « **Members** » et les **pages de profil** de chacun ainsi que les tous les **équipements** appartenant à l’équipe.
 
 En effet, le site comportera une page « **Equipements** » qui est tout simplement une galerie photos comprenant la liste des **équipements** utilisés par l’équipe (machines, outils…).
 
@@ -17,27 +17,27 @@ Pour cette tâche, un appareil photo professionnel (**Sony A7S III**) m'a été 
 
 Voici comment sera organisé la page « **Equipements** » :
 
-La galerie photo pourra être **filtrée** selon la catégorie d’équipements choisie (par défaut toutes les catégories sont affichées).
+La galerie photos pourra être **filtrée** selon la catégorie d’équipements choisie (par défaut toutes les catégories sont affichées).
 
-Lors du survol d’une photo, une courte description s’affiche par-dessus la photo (le fond s’assombri afin que le texte soit lisible), et deux boutons s’affichent en dessous de la description :
+Lors du survol d’une photo, une courte description s’affiche par-dessus la photo (le fond s’assombrit afin que le texte soit lisible), et deux boutons s’affichent en dessous de la description :
 
 - Bouton permettant d’agrandir la photo
 - Bouton permettant d’avoir plus d’informations sur l’équipement (lien cliquable vers une autre page)
 
 Le second bouton n’est pas obligatoirement disponible sur tous les équipements selon la longueur de la description fournie.
 
-Voici un aperçu du rendu final de la galerie photo :
+Voici un aperçu du rendu final de la galerie photos :
 
 [![Publications](/assets/img/equipments.png)](/assets/img/equipments.png)
 
 ## Membres de l'équipe
 
-La page "**Members**" se repose sur le même système que celle de la page "**Equipments**" : il s'agit du même module HTML, seul la mise en page est différente. Par ailleurs, ce module sera inséré deux fois :
+La page "**Members**" se repose sur le même système que celle de la page "**Equipments**" : il s'agit du même module HTML, seule la mise en page est différente. Par ailleurs, ce module sera inséré deux fois :
 
 - Module affichant les chercheurs permanents
-- Module affichant les étudiants (avec filtre doctorant/post-doctorant)
+- Module affichant les étudiants (avec filtre doctorant/postdoctorant)
 
-Un membre est constitué de trois élements :
+Un membre est constitué de trois éléments :
 
 - Photo de profil (cliquable vers page de profil)
 - Nom complet

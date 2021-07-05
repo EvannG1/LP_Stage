@@ -1,6 +1,6 @@
 # Publications
 
-Une des fonctionnalités les plus importante du site qui m'a été demandé : l'insertions des publications scientifiques des chercheurs de l'équipe.
+Une des fonctionnalités les plus importantes du site qui m'a été demandé : l'insertion des publications scientifiques des chercheurs de l'équipe.
 
 Chaque chercheur possède des publications, il s’agit principalement d’articles scientifiques.
 Un des objectifs qui m’a été fixé lors de ce stage, été de pouvoir récupérer automatiquement la liste des publications de tous les chercheurs de l’équipe afin que celles-ci soient visibles directement depuis le site.
@@ -21,13 +21,13 @@ J’ai commencé par faire des requêtes vers l’**API** depuis l’application
 
 Premier problème, tous les membres de l’équipe ne disposent pas d’un ID HAL, et les quelques chercheurs en possédant, n’ont pas toutes leurs publications rattachées à celui-ci : d'anciennes publications sont publiées sur HAL mais sont rattachées uniquement au nom du chercheur et non pas à son ID HAL.
 
-Je suis donc contrait de faire les recherches à l'aide du nom du chercheur. Mais avec cette méthode, l’API me retourne des publications n’appartenant pas au chercheur que je souhaite (car il y a plusieurs personnes possédant le nom « LU » par exemple).
+Je suis donc contraint de faire les recherches à l'aide du nom du chercheur. Mais avec cette méthode, l’API me retourne des publications n’appartenant pas au chercheur que je souhaite (car il y a plusieurs personnes possédant le nom « LU » par exemple).
 
 J’ai alors rajouté un **filtre** en plus du nom, indiquant que je souhaite les publications provenant uniquement de l’**Institut Jean Lamour**. Désormais toutes les publications récupérées sont valides.
 
 ## Second problème : Publications manquantes
 
-Peu de temps après avoir pu récupérer la liste des publications avec les données que l’on m’a demandé :
+Peu de temps après avoir pu récupérer la liste des publications avec les données que l’on m’a demandées :
 - Nom de la publication (+ lien vers HAL)
 - Date de publication
 - Auteurs
@@ -37,15 +37,15 @@ Peu de temps après avoir pu récupérer la liste des publications avec les donn
 - Numéro, volume du journal
 - Pages du journal
 
-Chaque chercheur m’ont fait parvenir leur liste de publications dans un document Word dans le but de verifier si toutes les publications que j'ai récupéré automatiquement à l'aide de HAL sont valides.
+Chaque chercheur m'a fait parvenir leur liste de publications dans un document Word dans le but de vérifier si toutes les publications que j'ai récupérées automatiquement à l'aide de HAL sont valides.
 
-Je me suis rendu compte qu’il me manquait énormément de publications, et que les membres de l’équipe n’avaient pas systématiquement publiés leurs articles sur HAL mais aussi sur d’autres plateformes tel que : **ORCID** et **ResearchGate**.
+Je me suis rendu compte qu’il me manquait énormément de publications, et que les membres de l’équipe n’avaient pas systématiquement publié leurs articles sur HAL mais aussi sur d’autres plateformes telles que : **ORCID** et **ResearchGate**.
 
 Plateformes n’appartenant ni au **CNRS** ni à l’**Université de Lorraine** et ne disposants pas d’**API**.
 
 Il y avait alors un nouveau problème, comment récupérer la liste des publications manquantes (ici on parle d’environ 200 à 300 publications manquantes, tous chercheurs compris).
 
-J'ai dans un premier temps regarder s'il existait des extensions officielles "ResearchGate" et/ou "ORCID" : sans succès.
+J'ai dans un premier temps regardé s'il existait des extensions officielles "ResearchGate" et/ou "ORCID" : sans succès.
 
 Par la suite j'ai alors cherché une extension WordPress permettant de créer une liste de publications trié par chercheur (ajout manuel de publications) et j’ai finalement trouvé « **TeachPress** » qui correspond parfaitement à mes besoins.
 
@@ -84,7 +84,7 @@ De plus, il permet aussi d’injecter du code **CSS** personnalisé afin d’ada
 
 Ce système permet aussi de retourner uniquement les données dont j’ai besoin, je peux donc facilement intégrer cette balise « iframe » avec les publications **TeachPress** (ajoutées manuellement).
 
-Finalement, les publications **HAL** et **TeachPress** se complètent entre eux, et sont triées par années (2021 à 2015 puis un onglet « Older »).
+Finalement, les publications **HAL** et **TeachPress** se complètent entre eux, et sont triées par année (2021 à 2015 puis un onglet « Older »).
 
 Ci-dessous, un aperçu du rendu final des publications :
 
@@ -92,4 +92,4 @@ Ci-dessous, un aperçu du rendu final des publications :
 
 Comme demandé par l’équipe, nous pouvons voir dans un premier temps l’**intitulé** de la publication (lien cliquable vers HAL), les **auteurs**, le **journal** où l’article est paru, le **DOI** (lien cliquable vers DOI.org) ainsi que le fichier **PDF associé** (lien cliquable).
 
-Par ailleurs, puisque Haltools récupère en temps réel les publications, si un chercheur de l’équipe vient à publier un nouvel article, celui-ci sera automatiquement récupéré par Haltools et sera alors afficher **automatiquement** sur le site de l’équipe. Ce système permet donc de conserver la même efficacité que l’utilisation de l’API : alimenter **automatiquement** le site internet.
+Par ailleurs, puisque Haltools récupère en temps réel les publications, si un chercheur de l’équipe vient à publier un nouvel article, celui-ci sera automatiquement récupéré par Haltools et sera alors affiché **automatiquement** sur le site de l’équipe. Ce système permet donc de conserver la même efficacité que l’utilisation de l’API : alimenter **automatiquement** le site internet.
